@@ -17,3 +17,6 @@ Our objective is to identify easily targetable customer segments to enhance mark
 ## Usage
 Follow the provided code for conducting customer segmentation analysis, including Exploratory Data Analysis (EDA), hypothesis testing, and clustering.
 
+## Data
+The dataset includes basic information such as Customer ID, age, gender, annual income, and spending scores, which are indicators of customer behavior and purchasing data. The dataset can be accessed directly from [this link](https://github.com/Mark-YuS/Customer_Segmentation/blob/main/Mall_Customers.csv).
+
