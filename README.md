@@ -4,7 +4,7 @@
 This project aims to segment customers using the KMeans Clustering Algorithm, an unsupervised machine learning technique. By analyzing a dataset of supermarket mall customers, we explore how to effectively identify target groups for more focused marketing strategies.
 
 ## Data
-The dataset includes basic information like Customer ID, age, gender, annual income, and spending scores, which reflect customer behavior and purchasing data.
+The dataset (Mall_Customers.csv) includes basic information like Customer ID, age, gender, annual income, and spending scores, which reflect customer behavior and purchasing data.
 
 ## Problem Statement
 Our objective is to identify easily targetable customer segments to enhance marketing efforts and resource allocation.
