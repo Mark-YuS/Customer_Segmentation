@@ -15,4 +15,4 @@ Our objective is to identify easily targetable customer segments to enhance mark
 - To apply real-world marketing strategies based on customer segmentation.
 
 ## Usage
-Follow the provided code [customer_segmentation](https://github.com/Mark-YuS/Customer_Segmentation/blob/main/customer_segmentation.ipynb) for conducting customer segmentation analysis, including Exploratory Data Analysis (EDA), hypothesis testing, and clustering.
+Follow the provided code [customer_segmentation.ipynb](https://github.com/Mark-YuS/Customer_Segmentation/blob/main/customer_segmentation.ipynb) for conducting customer segmentation analysis, including Exploratory Data Analysis (EDA), hypothesis testing, and clustering.
